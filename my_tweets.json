@@ -1,0 +1,252 @@
+{
+    "1": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Grok analysis will change the game!",
+        "tweet_url": "https://twitter.com/Guava_Juiceeee/status/1763071297515360550"
+    },
+    "2": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Will it know when I'm drunk posting?",
+        "tweet_url": "https://twitter.com/TimRunsHisMouth/status/1763071804980027644"
+    },
+    "3": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "I doubt that very much, it’ll just be another plug-in to X",
+        "tweet_url": "https://twitter.com/theotherayo/status/1763071746473636079"
+    },
+    "4": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I love watching static fire tests, wonder when we will have humans on Starship",
+        "tweet_url": "https://twitter.com/Teslaconomics/status/1762574556311814514"
+    },
+    "5": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "This is so intriguing, go going SpaceX",
+        "tweet_url": "https://twitter.com/JamesWhitford14/status/1762592848791368168"
+    },
+    "6": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "You can't keep your cars from exploding while parked in driveways. 🙄",
+        "tweet_url": "https://twitter.com/_whooty_/status/1762740672069509482"
+    },
+    "7": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Another case of selective prosecution",
+        "tweet_url": "https://twitter.com/elonmusk/status/1762709124805009436"
+    },
+    "8": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Yes 🤣",
+        "tweet_url": "https://twitter.com/lexfridman/status/1746992658508136479"
+    },
+    "9": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "I feel attacked.",
+        "tweet_url": "https://twitter.com/jvguitarworks/status/1746993513118765431"
+    },
+    "10": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "I have never enjoyed making calls to people I don’t know but I’m not introvert.",
+        "tweet_url": "https://twitter.com/archangelofai/status/1747084142582333579"
+    },
+    "11": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "I’m not a phone talker either 😅",
+        "tweet_url": "https://twitter.com/Kristennetten/status/1748084394521493859"
+    },
+    "12": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "New York Times: Israel knows Iran has an atomic bomb, so it does not attack Iran militarily.",
+        "tweet_url": "https://twitter.com/Sprinter99800/status/1762976042946371766"
+    },
+    "13": {
+        "sentiment_label": "positive",
+        "text_of_tweet": " These masks look frightening!! We need more of them. Who's selling?",
+        "tweet_url": "https://twitter.com/ArtistInWarTime/status/1763152698713465034"
+    },
+    "14": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "New study finds that AI models consistently escalated to war and would deploy nukes without warning in a series of conflict simulations",
+        "tweet_url": "https://twitter.com/CultureCrave/status/1763092647944892506"
+    },
+    "15": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Lost me at “Vice”",
+        "tweet_url": "https://twitter.com/Danizeh/status/1763093033342431335"
+    },
+    "16": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Yea we are cooked if AI takes over",
+        "tweet_url": "https://twitter.com/Br0nToLA23/status/1763094833445355573"
+    },
+    "17": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The models are definitely biased. But we have to keep going.",
+        "tweet_url": "https://twitter.com/mjarbo/status/1763095349739299118"
+    },
+    "18": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Big tech's AI models chose violence and escalated to nuclear strikes in simulated wargames, even in neutral scenarios.",
+        "tweet_url": "https://twitter.com/Iam_Elace/status/1763092834142273845"
+    },
+    "19": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "What separates us from machines is Emotions, AI lacks that and will only think logically, it will always resolve that humans are a virus and come to one logical solution, wipe humanity out.",
+        "tweet_url": "https://twitter.com/JardaniJovonovv/status/1763160127006257451"
+    },
+    "20": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "You've suffered enough, now is time to live a life that really brings you joy.",
+        "tweet_url": "https://twitter.com/the_tweetionary/status/1522456484512157696"
+    },
+    "21": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "The older I get, the more I just wanna be chill. I'm not interested in fighting with anyone nor proving myself to anyone nor clapping back at anything. We either communicate in a healthy way or we don't talk at all. I'm fine with either.",
+        "tweet_url": "https://twitter.com/the_tweetionary/status/1522547086520107009"
+    },
+    "22": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Being private and not telling everyone your side of the story even when you are the villain in someone's story is top tier self-care.",
+        "tweet_url": "https://twitter.com/the_tweetionary/status/1522087603817922560"
+    },
+    "23": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "still searching.. for someone to understand me better",
+        "tweet_url": "https://twitter.com/the_tweetionary/status/1521659946336763908"
+    },
+    "24": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I'm so excited! :3",
+        "tweet_url": "https://twitter.com/unicouniuni3/status/1763044981017866311"
+    },
+    "25": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "what a good kitty",
+        "tweet_url": "https://twitter.com/albedyo/status/1763048226230534457"
+    },
+    "26": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The game got some explaining to do 😬",
+        "tweet_url": "https://twitter.com/thirdworldsolid/status/1762914477618385148"
+    },
+    "27": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "This makes me believe everything they saying cuz why? Smfh.",
+        "tweet_url": "https://twitter.com/RealSweeterman/status/1763113300907139294"
+    },
+    "28": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Ex-Friend revealed his alleged abuse against Nicki Minaj few weeks ago",
+        "tweet_url": "https://twitter.com/SociatUSA/status/1762835782216388753"
+    },
+    "29": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "So meek doing everything except explaining why he was following that twitter page??",
+        "tweet_url": "https://twitter.com/_ViewsFrmmJr/status/1762946616539898235"
+    },
+    "30": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Sad how my favorite players in football are suffering. Pogba, Neymar and Martial all going through tough times right now. It wasn’t supposed to end like this man💔",
+        "tweet_url": "https://twitter.com/UTDTrey/status/1763176322426150945"
+    },
+    "31": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Goddamn boy. I logged off last night, put my kids to bed, fucked on my friend joint at her spot down stairs, went to sleep, got my kids off to school, logged back in and #MEEKMILL is STILL trending. I don't remember that last time any rapper has trended this long that wasnt dying",
+        "tweet_url": "https://twitter.com/search?q=%23MeekMill&src=trend_click&vertical=trends"
+    },
+    "32": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Happy Friday Eve!! I hope everyone has a fantastic day!",
+        "tweet_url": "https://twitter.com/alliewiers/status/1763158839291982292"
+    },
+    "33": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important questions about the human mind, society, and current events.",
+        "tweet_url": "https://twitter.com/MakingSenseHQ"
+    },
+    "34": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Thank you, Sam Harris, for providing an example of how left-wing elites view themselves.",
+        "tweet_url": "https://twitter.com/Thoughtcrime03/status/1760159311236399317"
+    },
+    "35": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "🔴Enjoy my breakdown of Sam Harris' hilarious lies as he tries to defend Israel. 🇮🇱",
+        "tweet_url": "https://twitter.com/LeeCamp/status/1760427053407424636"
+    },
+    "36": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "This past weekend, we watched as Russia’s aggression continued to displace thousands of families in Ukraine, taking the greatest toll on Ukraine’s children.",
+        "tweet_url": "https://twitter.com/HillaryClinton/status/1762857205156528349"
+    },
+    "37": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Hillary Clinton is a war criminal.",
+        "tweet_url": "https://twitter.com/MatthewJshow/status/1762859068597690559"
+    },
+    "38": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Matt is an idiot",
+        "tweet_url": "https://twitter.com/Progressspecies/status/1762986514286567629"
+    },
+    "39": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "This account is no longer active. For New York Times Cooking recipes, advice and inspiration, follow us on Instagram or Tiktok under AT nytcooking.",
+        "tweet_url": "https://twitter.com/nytfood"
+    },
+    "40": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Those stripped of the grace of gold will all meet death in Messmer’s flame.",
+        "tweet_url": "https://twitter.com/ELDENRING/status/1760333970187698176"
+    },
+    "41": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Finally! Took me ages to get it but it’s done :)",
+        "tweet_url": "https://twitter.com/_K4zzz/status/1760637298410967057"
+    },
+    "42": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "pretty sick",
+        "tweet_url": "https://twitter.com/Jefnoski/status/176056319143487906"
+    },
+    "43": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Trailer was underwhelming.",
+        "tweet_url": "https://twitter.com/BillyKain/status/1760381246230638686"
+    },
+    "44": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Morgan Freeman on his beautiful speaking ability 🤩",
+        "tweet_url": "https://twitter.com/DiabloChaze/status/1763157019962315071"
+    },
+    "45": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I can’t confirm Morgan Freeman has passed away. I hope he hasn’t. the voice we all love. I will honor him just for being him!",
+        "tweet_url": "https://twitter.com/dunmesedupaaron/status/1763175391487807805"
+    },
+    "46": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "The people of Leicester showing their support for Palestine 🇵🇸👏",
+        "tweet_url": "https://twitter.com/LeftWingSociety/status/1738250566189404285"
+    },
+    "47": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Your days are as numbered as those streets",
+        "tweet_url": "https://twitter.com/macandcheek/status/1738525208351539632"
+    },
+    "48": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Most of the people of Leicester showing their antisemitism and a few of them too scared not to get on with the program. Berlin probably looked like this in the 30's.",
+        "tweet_url": "https://twitter.com/alexwiederphoto/status/1738402131319599141"
+    },
+    "49": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "You clearly don’t know what antisemitism means",
+        "tweet_url": "https://twitter.com/ARclearlySee/status/1738491055069417898"
+    },
+    "50": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "If you actually knew history, Berlin may have looked like this in the 70s",
+        "tweet_url": "https://twitter.com/bolton_aston/status/1738540372131823651"
+    }
+}
